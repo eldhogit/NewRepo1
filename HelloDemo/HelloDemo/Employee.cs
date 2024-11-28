@@ -9,6 +9,8 @@ namespace HelloDemo
     internal class Employee
     {
         int Id;
+        string Name;
         //unit testing
+        
     }
 }
