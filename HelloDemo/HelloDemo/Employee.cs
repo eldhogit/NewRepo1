@@ -8,5 +8,6 @@ namespace HelloDemo
 {
     internal class Employee
     {
+        int Id;
     }
 }
