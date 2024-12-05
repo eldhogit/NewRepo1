@@ -10,10 +10,9 @@ namespace HelloDemo
     {
         //1 some code from sever
 
-        public void addition()
+        public void addition(int a , int b)
         {
-            int a = 1;
-            int b = 2;
+            
             int c = a + b;
         }
 
