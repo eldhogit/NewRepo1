@@ -9,5 +9,13 @@ namespace HelloDemo
     internal class PushNotification
     {
         //1 some code from sever
+
+        public void addition()
+        {
+            int a = 1;
+            int b = 2;
+            int c = a + b;
+        }
+
     }
 }
