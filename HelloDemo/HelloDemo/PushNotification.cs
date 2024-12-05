@@ -8,5 +8,6 @@ namespace HelloDemo
 {
     internal class PushNotification
     {
+        //1 some code from sever
     }
 }
