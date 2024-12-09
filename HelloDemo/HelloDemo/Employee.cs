@@ -12,6 +12,7 @@ namespace HelloDemo
         string Name;
         //unit testing 2
         //push notification
+        //validation
         
     }
 }
