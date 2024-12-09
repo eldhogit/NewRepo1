@@ -13,7 +13,7 @@ namespace HelloDemo
         //unit testing 2
         //push notification
         //validation
-        //db connections Oracle
+        //db connections SQL
         
     }
 }
