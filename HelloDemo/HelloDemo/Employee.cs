@@ -13,7 +13,8 @@ namespace HelloDemo
         //unit testing 2
         //push notification
         //validation
-        //db connections SQL
+        //db connections SQL Server
+        
         
     }
 }
